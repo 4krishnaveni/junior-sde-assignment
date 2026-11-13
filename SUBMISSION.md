@@ -5,13 +5,13 @@
 ## Candidate
 - **Name: Kurra Krishnaveni
 - **Assignment chosen: A (Data) 
-- **Time spent (honest estimate): 2 hr
+- **Time spent (honest estimate): 5 hr
 
 ## How to run
 Run these commands from the repository root.
 Windows PowerShell:
 
-# To activate the environment
+# To activate the environments
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
